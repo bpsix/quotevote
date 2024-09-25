@@ -1,5 +1,3 @@
 export default function RootPage() {
-  return (
-    <div>QuoteVote</div>
-  )
+  return <div>QuoteVote</div>;
 }
